@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Shujabits_CRUD_Operations.props" />
+</Project>

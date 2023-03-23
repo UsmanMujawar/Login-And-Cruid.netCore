@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shujabits_CRUD_Operations", "WebApplication179\Shujabits_CRUD_Operations.csproj", "{F843A86A-217F-40F2-81FF-31C7C0A193DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F843A86A-217F-40F2-81FF-31C7C0A193DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F843A86A-217F-40F2-81FF-31C7C0A193DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F843A86A-217F-40F2-81FF-31C7C0A193DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F843A86A-217F-40F2-81FF-31C7C0A193DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6366D8-95D2-43BD-BE0D-F6594DB1C06A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Shujabits_CRUD_Operations.props" />
+</Project>
